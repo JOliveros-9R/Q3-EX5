@@ -1,0 +1,19 @@
+body {
+	background-color: #C105F7;
+}
+
+.container {
+	background-color: #E2F705;
+	padding: 25px;
+	box-shadow: 10px 10px 30px;
+	border-radius: 15px;
+	margin: auto;
+	border: 5px solid darkviolet;
+	width: 700px;	
+}
+
+}
+
+h1, footer {
+	text-align: center;
+}
